@@ -84,18 +84,17 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 1. P2P.org (Create Staking Request)
 2. 
 
-#### Detailed explanation of Babylon Chain usage
+## Detailed explanation of Babylon Chain usage
 
     - Links to relevant source code files & functions
     - Addresses of smart contracts deployed on devnet
 
-#### Public Source Code Repo
+## Public Source Code Repo
 * https://github.com/MartinYeung5/20241108_DOSS_Marketplace/tree/main
 
-#### Showcase (Optional)
-
+## Showcase & Targeted track
 - 2-3 minute video presenting the idea and demonstrating Babylon usage
-- Specify targeted tracks in your submission
+- Targeted track: Babylon
 
 ## Roadmap
 
