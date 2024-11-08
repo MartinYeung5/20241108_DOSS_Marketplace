@@ -86,6 +86,7 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 2. 
 
 ## Detailed explanation of Babylon Chain usage
+1. bitcoin staking 
 
     - Links to relevant source code files & functions
     - Addresses of smart contracts deployed on devnet
