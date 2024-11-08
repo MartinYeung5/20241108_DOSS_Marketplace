@@ -87,21 +87,22 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 ## Technical Structure:
 1. Babylon: Bitcoin Timestamping
 2. P2P.org: using their API such as Create Staking Request, Create Withdrawal Request, Create Unstake Request ...
-3. 
+3. SatLayer: BVS applications
 
 ## Detailed explanation of Babylon Chain usage
-1. bitcoin staking (user can select to stake on general validator or honest seller)
+1. Babylon: Bitcoin Timestamping/ bitcoin staking (user can select to stake on general validator or honest seller)
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_1.png?raw=true)
     - the project want to let bitcoin holder can stake their token to favourite seller, not only validator
 
-2. 
+2. SatLayer: based on the official blog, it mentioned their approach enables such applications to easily leverage Bitcoin-backed crypto-economic security.
+* i think it is really great if my project can utilize their tool and let biction holder can stake tehir token on honest seller.
 
 ## Public Source Code Repo
 * https://github.com/MartinYeung5/20241108_DOSS_Marketplace/tree/main
 
 ## Showcase & Targeted track
 - 2-3 minute video presenting the idea and demonstrating Babylon usage
-- Targeted track: Babylon
+- Targeted track: Babylon/SatLayer
 
 ## Roadmap
 - [x] Project Information and concept
