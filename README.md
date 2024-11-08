@@ -88,7 +88,7 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## project frontend
+## project frontend (landing page)
 * link:
 - https://20241107-ddos-marketplace.vercel.app/
 
