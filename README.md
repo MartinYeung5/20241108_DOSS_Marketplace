@@ -115,7 +115,7 @@ For the buyer, they can analyse the risk based on the record and the staker situ
     - the project want to let bitcoin holder can stake their token to favourite seller, not only validator
 
 2. SatLayer: based on the official blog, it mentioned their approach enables such applications to easily leverage Bitcoin-backed crypto-economic security.
-* i think it is really great if my project can utilize their tool and let biction holder can stake tehir token on honest seller.
+* i think it is really great if my project can utilize their tool and let biction holder can stake tehir token on honest seller. At same time, my project can let bitcoin holder earn extra income at each transaction from honest seller's business.
 
 ## Public Source Code Repo
 * https://github.com/MartinYeung5/20241108_DOSS_Marketplace/tree/main
