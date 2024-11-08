@@ -88,7 +88,7 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 ## Detailed explanation of Babylon Chain usage
 1. bitcoin staking 
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_1.png?raw=true)
-    - the project want to let bitcoin holder can stake their token to favourite seller
+    - the project want to let bitcoin holder can stake their token to favourite seller, not only validator
 
 2. 
 
