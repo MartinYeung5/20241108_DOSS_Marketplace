@@ -28,6 +28,10 @@ no ideas? only go shopping with famous or reliable platform?
 why don't we utilize the security of bitcoin to increase the truth from the sellers
 Therefore, the project will develop an innovative concept to let seller can gain more truth via bitcoin staking feature. Moreover, the bitcoin holder can prower up the bitcoin's value to use it earn more from each transaction on honest seller who is your staking target. 
 
+### target market:
+* online shopping platform for second-hand products
+* need to use web3 wallet as payment method (further development will want to handle other payment methods)
+
 ### solution:
 1. seller marketplace: can sell their products (start from second-hand products/marketplace)
 2. staker function: who believe seller is reliable, they can stake some tokens on honest seller
@@ -47,17 +51,16 @@ Therefore, the project will develop an innovative concept to let seller can gain
 7. public monitoring: don't need specific third party to check seller, and it can let public to monitor
 
 ## Project Summary
-This project aims to develop a decentrallize shopping platform for individual second hand market 
+This project aims to develop a decentrallize shopping platform for individual second-hand market 
 in order to build a reliable regulations to increase the security of online shopping.
 In current situation, we can not find a perfect way to protect our benefit from online shopping. 
 online shopping in reliable platform can decrease the risk of the lost, 
 also it means you should better go to specific reliable platform such as amazon to decrease the issue.
 However, you still suffer from the risk for unhonest seller. 
-Therefore, this project will utilize the bitcoin staking strategy to let more monitors to stake their token 
-to join the monitoring process
-and earn income from each transaction. At same time, they may suffer from the risk of fraud seller. 
-so, they need to keep check 
-the seller behaviour. When they think the seller is unhonest, they can unbond. 
+Therefore, this project will utilize the bitcoin staking strategy to let more monitors to stake their token to join the monitoring process and earn income from each transaction. 
+At same time, they may suffer from the risk of fraud seller. 
+so, they need to keep check the seller behaviour. 
+When they think the seller is unhonest, they can unbond. 
 For the buyer, they can analyse the risk based on the record and the staker situation.
 
 ## Team
