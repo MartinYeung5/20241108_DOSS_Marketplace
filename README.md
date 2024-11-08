@@ -40,7 +40,7 @@ Therefore, the project will develop an innovative concept to let seller can gain
 ### solution:
 1. decentralized shopping marketplace with bitcoin security: seller can invite bitcoin holder to stake on them in order to increase the transaction security (start from second-hand product's marketplace)
 2. staking function: who believe seller is reliable, they can stake some tokens on honest seller
-3. earning commission: holder can earn some commission when the transaction completed
+3. earning commission: holder can earn some commission when the transaction completed. By the way, our project will earn a commission from each transaction too.
 4. anti-fraud system: 
 * when seller is doing fraud, all tokens will be exposed and any one can get it
 * when seller is reported as fraud, all tokens will be locked
