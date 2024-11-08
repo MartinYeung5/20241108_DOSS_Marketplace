@@ -82,8 +82,9 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technical Structure:
-1. P2P.org: (Create Staking Request)
-2. Babylon: Bitcoin Timestamping
+1. Babylon: Bitcoin Timestamping
+2. P2P.org: using their API such as Create Staking Request, Create Withdrawal Request, Create Unstake Request ...
+3. 
 
 ## Detailed explanation of Babylon Chain usage
 1. bitcoin staking (user can select to stake on general validator or honest seller)
