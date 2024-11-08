@@ -8,6 +8,7 @@ DOSS Marketplace
 
 ## Project Logo
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/DDOS.png?raw=true | width=100)
+<img src="https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/DDOS.png" width=50% height=50%>
 
 ## Project Vision
 secure online shopping by staking your BTC on honest seller
