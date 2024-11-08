@@ -9,6 +9,9 @@ DOSS Marketplace
 ## Project Logo
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/DDOS.png?raw=true)
 
+## Project Vision
+secure online shopping by staking your BTC on honest seller
+
 ## Project Description
 Nowadays, we are facing different frauds in our life. Especially in the rapid changing generation, 
 we may use different online applications such as online shopping.
