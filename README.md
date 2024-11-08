@@ -101,10 +101,11 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 
 ## Roadmap
 - [x] Project Information and concept
-- [x] Frontend draft
+- [x] Frontend draft (landing page)
 - [ ] Feasibility testing
 - [ ] Confirmed technical structure
-- [ ] Version 1.0
+- [ ] Frontend draft
+- [ ] Application Version 1.0
 
 ## Other
 1. X Screencap for participation sharing (20241102)
