@@ -115,7 +115,6 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 * https://github.com/MartinYeung5/20241108_DOSS_Marketplace/tree/main
 
 ## Showcase & Targeted track
-- 2-3 minute video presenting the idea and demonstrating Babylon usage
 - Targeted track: Babylon/SatLayer
 
 ## Roadmap
