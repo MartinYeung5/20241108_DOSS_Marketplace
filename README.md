@@ -90,12 +90,7 @@ For the buyer, they can analyse the risk based on the record and the staker situ
     - Addresses of smart contracts deployed on devnet
 
 #### Public Source Code Repo
-
-- Provide a link to a public GitHub or GitLab repository
-- Include a comprehensive README with:
-  - Clear project description
-  - "Technologies Used" section highlighting our tech
-  - Link to working demo / testing guide
+* https://github.com/MartinYeung5/20241108_DOSS_Marketplace/tree/main
 
 #### Showcase (Optional)
 
