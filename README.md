@@ -21,6 +21,7 @@ We may just believe the comment or impression or history record.
 Actually, we may go online shopping oftenly during our daily life and sometimes we may go to various online shops including platform, social group/marketplace like facebook. 
 However, we can't really protect our benefit in the small shops or on social group or individual sellers. 
 We may suffer from the risks:
+
 ### Risks/Pain Points
 1. buying fake products/ low quality products.
 2. lose our money (can't receive products)
@@ -87,13 +88,14 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Screencap for frontend
-
+## Screencap for project frontend
 
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_3.png?raw=true)
 
+* project earning
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_2.png?raw=true)
 
+* project feature
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_4.png?raw=true)
 
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_5.png?raw=true)
