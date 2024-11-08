@@ -7,7 +7,7 @@ DOSS Marketplace
 (Decentralized Online Shopping for Second-hand Marketplace)
 
 ## Project Logo
-![alt text](ttps://github.com/MartinYeung5/20241103_babylon_hackathon_draft/blob/main/images/DDOS.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/DDOS.png?raw=true)
 
 ## Project Description
 Nowadays, we are facing different frauds in our life. Especially in the rapid changing generation, 
