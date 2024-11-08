@@ -84,6 +84,15 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Screencap for frontend
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_2.png?raw=true)
+
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_3.png?raw=true)
+
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_4.png?raw=true)
+
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_5.png?raw=true)
+
 ## Technical Structure:
 1. Babylon: Bitcoin Timestamping
 2. P2P.org: using their API such as Create Staking Request, Create Withdrawal Request, Create Unstake Request ...
