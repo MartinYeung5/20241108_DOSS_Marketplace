@@ -98,14 +98,11 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 - Targeted track: Babylon
 
 ## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Project Information and concept
+- [x] Frontend draft
+- [ ] Feasibility testing
+- [ ] Confirmed technical structure
+- [ ] Version 1.0
 
 ## Other
 1. X Screencap for participation sharing (20241102)
