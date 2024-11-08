@@ -18,6 +18,7 @@ We may just believe the comment or impression or history record.
 Actually, we may go online shopping oftenly during our daily life and sometimes we may go to various online shops including platform, social group/marketplace like facebook. 
 However, we can't really protect our benefit in the small shops or on social group or individual sellers. 
 We may suffer from the risks:
+### Risks/Pain Points
 1. buying fake products/ low quality products.
 2. lose our money (can't receive products)
 
