@@ -82,11 +82,11 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technical Structure:
-1. P2P.org (Create Staking Request)
-2. 
+1. P2P.org: (Create Staking Request)
+2. Babylon: Bitcoin Timestamping
 
 ## Detailed explanation of Babylon Chain usage
-1. bitcoin staking 
+1. bitcoin staking (user can select to stake on general validator or honest seller)
 ![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241108_1.png?raw=true)
     - the project want to let bitcoin holder can stake their token to favourite seller, not only validator
 
