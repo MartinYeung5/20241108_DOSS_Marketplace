@@ -108,5 +108,5 @@ For the buyer, they can analyse the risk based on the record and the staker situ
 
 ## Other
 1. X Screencap for participation sharing (20241102)
-![alt text](ttps://github.com/MartinYeung5/20241103_babylon_hackathon_draft/blob/main/images/20241104_1.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20241108_DOSS_Marketplace/blob/main/images/20241104_1.png?raw=true)
 
