@@ -37,8 +37,8 @@ Therefore, the project will develop an innovative concept to let seller can gain
 
 ### solution:
 1. seller marketplace: can sell their products (start from second-hand products/marketplace)
-2. staker function: who believe seller is reliable, they can stake some tokens on honest seller
-3. earning commission: staker can earn some commission when the transction completed
+2. staking function: who believe seller is reliable, they can stake some tokens on honest seller
+3. earning commission: holder can earn some commission when the transaction completed
 4. anti-fraud system: 
 * when seller is doing fraud, all tokens will be exposed and any one can get it
 * when seller is reported as fraud, all tokens will be locked
@@ -49,7 +49,7 @@ Therefore, the project will develop an innovative concept to let seller can gain
 2. increase the bitcoin power and utilize bitcoin's security feature. 
 3. public can believe the seller who gain more stake
 4. public can be protected when the fraud is happened
-5. real decentrallize shopping platform
+5. real decentralized shopping platform
 6. self-discipline: seller need to gain more stake in order to build good reputation
 7. public monitoring: don't need specific third party to check seller, and it can let public to monitor
 
