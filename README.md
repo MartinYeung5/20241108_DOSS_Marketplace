@@ -38,7 +38,7 @@ Therefore, the project will develop an innovative concept to let seller can gain
 * need to use web3 wallet as payment method (further development will want to handle other payment methods)
 
 ### solution:
-1. seller marketplace: seller can invite bitcoin holder to stake on them in order to increase the transaction security (start from second-hand product's marketplace)
+1. decentralized shopping marketplace with bitcoin security: seller can invite bitcoin holder to stake on them in order to increase the transaction security (start from second-hand product's marketplace)
 2. staking function: who believe seller is reliable, they can stake some tokens on honest seller
 3. earning commission: holder can earn some commission when the transaction completed
 4. anti-fraud system: 
@@ -56,7 +56,7 @@ Therefore, the project will develop an innovative concept to let seller can gain
 7. public monitoring: don't need specific third party to check seller, and it can let public to monitor
 
 ## Project Summary
-This project aims to develop a decentrallize shopping platform for individual second-hand market 
+This project aims to develop a decentralized shopping platform for individual second-hand market 
 in order to build a reliable regulations to increase the security of online shopping.
 In current situation, we can not find a perfect way to protect our benefit from online shopping. 
 online shopping in reliable platform can decrease the risk of the lost, 
