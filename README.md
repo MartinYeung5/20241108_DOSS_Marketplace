@@ -27,7 +27,7 @@ no ideas? only go shopping with famous or reliable platform?
 why don't we utilize the security of bitcoin to increase the truth from the sellers
 Therefore, the project will develop an innovative concept to let seller can gain more truth via bitcoin staking feature. Moreover, the bitcoin holder can prower up the bitcoin's value to use it earn more from each transaction on honest seller who is your staking target. 
 
-solution:
+### solution:
 1. seller marketplace: can sell their products (start from second-hand products/marketplace)
 2. staker function: who believe seller is reliable, they can stake some tokens on honest seller
 3. earning commission: staker can earn some commission when the transction completed
@@ -36,7 +36,7 @@ solution:
 * when seller is reported as fraud, all tokens will be locked
 5. report and reward function: if someone can discover the fraud and report it, they can get some token from dishonest seller when the case is true.
 
-impact:
+### impact:
 1. let more people know what is web3 and can enjoy wbe3 application
 2. increase the bitcoin power and utilize bitcoin's security feature. 
 3. public can believe the seller who gain more stake
